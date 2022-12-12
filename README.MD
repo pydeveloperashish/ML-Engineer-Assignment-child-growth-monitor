@@ -1,5 +1,8 @@
 
+# Reading the Data
 ![Screenshot from 2022-12-12 13-33-12](https://user-images.githubusercontent.com/59412013/206993499-ffc5af57-352f-4705-920f-d92717ac8ce5.png)
+
+# Preprocessing it to extract 'body_pose_score' and drop rest
 ![Screenshot from 2022-12-12 13-33-23](https://user-images.githubusercontent.com/59412013/206993496-68f0e201-2e0e-4c92-801f-eb7852f91e1b.png)
 
 ![Screenshot from 2022-12-12 13-34-11](https://user-images.githubusercontent.com/59412013/206993479-d318a1d3-076d-4552-912f-4672e70b9cf0.png)
