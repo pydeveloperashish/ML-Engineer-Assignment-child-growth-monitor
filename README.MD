@@ -5,6 +5,7 @@
 # Preprocessing it to extract 'body_pose_score' and drop rest
 ![Screenshot from 2022-12-12 13-33-23](https://user-images.githubusercontent.com/59412013/206993496-68f0e201-2e0e-4c92-801f-eb7852f91e1b.png)
 
+# Now checking the correlation of values of Height and values of body_pose_score
 ![Screenshot from 2022-12-12 13-33-32](https://user-images.githubusercontent.com/59412013/206993493-93c5db07-c183-44c6-a860-8a5ef543bbc8.png)
 
 ![Screenshot from 2022-12-12 13-33-43](https://user-images.githubusercontent.com/59412013/206993490-465cd73b-a76a-4da5-8920-dd36fcdad7ff.png)
