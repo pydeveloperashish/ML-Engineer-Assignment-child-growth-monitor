@@ -15,7 +15,7 @@
 
 
 
-# Data is correlated enough, lets try to apply ML Model
+# Data is correlated enough, lets try to apply ML Model :- Linear Regression
 ![Screenshot from 2022-12-12 13-34-00](https://user-images.githubusercontent.com/59412013/206993485-58154b0b-0598-43a1-a100-04d413f52b93.png)
 
 
