@@ -13,7 +13,12 @@
 ![Screenshot from 2022-12-12 13-33-51](https://user-images.githubusercontent.com/59412013/206993488-00dd5cec-e5a9-48ad-8607-355d579afbe1.png)
 
 
+
+
 # Data is correlated enough, lets try to apply ML Model
 ![Screenshot from 2022-12-12 13-34-00](https://user-images.githubusercontent.com/59412013/206993485-58154b0b-0598-43a1-a100-04d413f52b93.png)
 
+
 ![Screenshot from 2022-12-12 13-34-11](https://user-images.githubusercontent.com/59412013/206993479-d318a1d3-076d-4552-912f-4672e70b9cf0.png)
+
+# We are getting RMSE value of 10 only
